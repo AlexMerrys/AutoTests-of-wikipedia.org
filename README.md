@@ -1,7 +1,9 @@
 # Wikipedia.org Autotests
 
 Автоматизированные тесты для wikipedia.org.
-Видеобзор работы: https://youtu.be/zFRcw1eOu2E
+Видеобзор работы: 
+YouTube: https://youtu.be/zFRcw1eOu2E
+Rutube: https://rutube.ru/video/0eed8a640bac5b3ef82f4b6d402fdaad/
 
 Вывод результата в виде html документа:
 <img width="1438" height="464" alt="image" src="https://github.com/user-attachments/assets/a083a1f9-3943-4309-a9d8-74a3141a0d4c" />
