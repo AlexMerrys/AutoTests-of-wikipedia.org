@@ -1,6 +1,7 @@
-# wikipedia.org Autotests
+# Wikipedia.org Autotests
 
 Автоматизированные тесты для wikipedia.org.
+Видеобзор работы: https://youtu.be/zFRcw1eOu2E
 
 ## Особенности
 
