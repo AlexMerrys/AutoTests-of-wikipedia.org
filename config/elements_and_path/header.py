@@ -1,0 +1,6 @@
+HEADER = '//*[@id="mw-head"]'
+HEADER_BUTTON_TRAINING = '//*[@id="pt-anontalk"]/a'
+HEADER_BUTTON_DEPOSIT = '//*[@id="pt-anoncontribs"]/a'
+HEADER_BUTTON_CREATE_ACCOUNT = '//*[@id="pt-createaccount"]/a'
+HEADER_BUTTON_LOGIN = '//*[@id="pt-login"]/a'
+LOGO = '//*[@id="p-logo"]/a'

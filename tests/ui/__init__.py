@@ -1,0 +1,1 @@
+# UI тесты для PARTYstation

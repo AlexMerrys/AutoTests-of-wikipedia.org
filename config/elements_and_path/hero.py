@@ -1,0 +1,11 @@
+
+HERO_TITLE = '//*[@id="Добро_пожаловать_в_Википедию,"]'
+HERO_WIKIPEDIA = '//*[@id="Добро_пожаловать_в_Википедию,"]/a'
+HERO_PARAGRAPH = '//*[@id="mw-content-text"]/div[1]/div[1]/div[1]/p'
+HERO_PARAGRAPH_FREE_CONTENT = '//*[@id="mw-content-text"]/div[1]/div[1]/div[1]/p/a[1]'
+HERO_PARAGRAPH_CAN_EDIT_EVERYONE = '//*[@id="mw-content-text"]/div[1]/div[1]/div[1]/p/a[2]'
+HERO_BUTTON_TRAINING = '//*[@id="ca-talk"]/a'
+HERO_BUTTON_VIEW_CODE = '//*[@id="ca-viewsource"]/a'
+HERO_BUTTON_HISTORY = '//*[@id="ca-history"]/a'
+HERO_SEARCH_INPUT = '//*[@id="p-search"]'
+HERO_SEARCH_INPUT_SUBCATEGORY = '/html/body/div[4]/div[1]/div[2]/div/form/div/input[1]'
