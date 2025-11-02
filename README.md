@@ -3,6 +3,10 @@
 Автоматизированные тесты для wikipedia.org.
 Видеобзор работы: https://youtu.be/zFRcw1eOu2E
 
+Вывод результата в виде html документы:
+<img width="1438" height="464" alt="image" src="https://github.com/user-attachments/assets/a083a1f9-3943-4309-a9d8-74a3141a0d4c" />
+<img width="1438" height="568" alt="image" src="https://github.com/user-attachments/assets/3e0aacde-e33e-4b9c-bd22-49dd1ad1dc46" />
+
 ## Особенности
 
 - **Безопасное тестирование**: Тесты продолжают выполнение даже при ошибках с селекторами
